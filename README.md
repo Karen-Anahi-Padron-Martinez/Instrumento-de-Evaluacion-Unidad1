@@ -21,24 +21,30 @@ El estudiante manipulará sensores y actuadores conectados a hardware abierto pa
 
 # Practica
 ## Ejercicio 1. Almacenamiento de Datos
+### Flujo en NODE-RED
+<img src= "https://github.com/user-attachments/assets/ab87fed1-b32c-4ba1-8a0d-f7cbf6681b1d" wigth=100/>
 <br>
+VIDEO,FLUJO Y CÓDIGO: 
+https://drive.google.com/drive/folders/1hQCAr7btfIzNgOxXXqEfhx_Pav_kdtVk?usp=sharing
 <br>
 
 ## Ejercicio 2: Control de Actuadores
+### Flujo en NODE-RED
+<img src= "https://github.com/user-attachments/assets/ab87fed1-b32c-4ba1-8a0d-f7cbf6681b1d" wigth=100/>
 <br>
+ VIDEO,FLUJO Y CÓDIGO: 
+ https://drive.google.com/drive/folders/1tv5e5QFZ0sqThPy55ODSdn00g1GNn9c-?usp=sharing 
 <br>
 
 ## Ejercicios 3 (soldadura):Circuito funcional en placa fenólica
-
-<img src="https://github.com/user-attachments/assets/dc52473c-e66e-479e-8375-ed0265cee2ff" wigth=100/>
-
+<img src="https://github.com/user-attachments/assets/95e69944-baa7-43e4-80a0-57a7628b8a77" wigth=100/>
 <br>
 
 ## Ejercicios 4 (soldadura):Figura 2D o 3D soldada
-
-<img src="https://github.com/user-attachments/assets/a2543b07-6569-4ca6-af16-ea6a95d64a1b" wigth=100/>
+<img src="https://github.com/user-attachments/assets/48bf8fcc-888c-4de1-8d25-85e581300ba7" wigth=100/>
 <br>
 
 ## Ejercicios en clase: Videos demostrativos
 <br>
+https://drive.google.com/drive/folders/1cZ6gblbnff3c-pWrBw_Py_YgzWeDO2og?usp=sharing
 <br>
